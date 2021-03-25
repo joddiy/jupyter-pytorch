@@ -1,0 +1,4 @@
+kubeflow-fairing==1.0.1
+jupyterlab==3.0.12
+jupyter-client==6.1.2
+tornado==6.1.0
